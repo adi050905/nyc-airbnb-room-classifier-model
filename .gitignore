@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node / Vite
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Temporary downloads and local data exports
+*.zip
+listing*.csv
+training_upload*.csv
+
+# Logs and editor files
+*.log
+.vscode/
+.idea/
+
+# Local planning/reference document
+the_build_line_guide.html

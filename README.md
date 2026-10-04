@@ -2,6 +2,10 @@
 
 This project predicts the room type of an Airbnb listing in New York City.
 
+## 🚀 Live Demo
+The model is deployed and fully interactive! You can test the predictions live here:
+**[NYC Airbnb Room Classifier - Live App](https://nyc-airbnb-model.vercel.app/)**
+
 The classifier supports three room types:
 
 - Entire home or apartment
